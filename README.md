@@ -1,6 +1,6 @@
 WIP
 
-CAD Designer/Developer Digital Toolmaker
+CAD Designer/Developer | Digital Toolmaker
 
 <!--
 ### Hi there 👋
