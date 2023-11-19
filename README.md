@@ -2,6 +2,18 @@ WIP
 
 CAD Designer/Developer | Digital Toolmaker
 
+Testbeds
+
+https://github.com/Testbed-for-Alibre-Design
+
+https://github.com/Testbed-for-SolidWorks
+
+https://github.com/Testbed-for-Solid-Edge
+
+https://github.com/Testbed-for-Rhino-and-Grasshopper
+
+
+
 <!--
 ### Hi there 👋
 
