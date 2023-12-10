@@ -1,5 +1,3 @@
-WIP
-
 CAD Designer/Developer | Digital Toolmaker
 
 Testbeds
