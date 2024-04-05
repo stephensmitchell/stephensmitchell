@@ -4,12 +4,6 @@ Testbeds
 
 https://github.com/Testbed-for-Alibre-Design
 
-Coming soon...
-
-https://github.com/Testbed-for-SolidWorks
-
-https://github.com/Testbed-for-Solid-Edge
-
 https://github.com/Testbed-for-Rhino-and-Grasshopper
 
 
