@@ -8,6 +8,10 @@ Testbeds
 
 https://github.com/Testbed-for-Alibre-Design
 
+[AI-Generated Scripts and Add-Ons Database for Alibre Design](https://adai.donetoolkit.com/1775708902a080de974cc465c4bd0f5d?v=e184e841cf1a4845ba7bbc2e32916ade)
+
+
+
 <!--
 ### Hi there 👋
 
