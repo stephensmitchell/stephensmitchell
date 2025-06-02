@@ -12,6 +12,7 @@ Databases
 
 [AI-Generated Programs and Add-Ons Database for Alibre Design](https://adai.donetoolkit.com/AI-Generated-Programs-and-Add-Ons-Database-for-Alibre-Design-1805708902a080a7a754d16859ee175d)
 
+Testbed-for-Alibre-Design is moving to [Gitea](https://about.gitea.com/): https://tn7jff.gitea.cloud/explore/repos
 
 <!--
 ### Hi there 👋
