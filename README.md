@@ -6,6 +6,8 @@
 
 **Testbed CLI** -> **Testbed UI** has an integrated CLI and GUI. **Testbed CLI** is CLI only and is more general purpose.
 
+My plan is for Testbed software to be feature-complete on Windows 11, macOS (Apple Silicon), and Linux.
+
 ### Public/Private Work
 
 [This GitHub account](https://github.com/stephensmitchell) and [Gitea](https://tn7jff.gitea.cloud/explore/repos) will include public repositories.  
