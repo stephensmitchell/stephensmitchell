@@ -8,6 +8,8 @@
 
 My plan is for Testbed software to be feature-complete on Windows 11, macOS (Apple Silicon), and Linux.
 
+***I'm considering [Eto Forms](https://github.com/picoe/Eto), [Avalonia](https://avaloniaui.net/platforms) and [Uno Platform](https://platform.uno/) for web, macOS and Linux builds of Testbed UI & Testbed CLI. Testbed Unity, which is built in [Unity](https://support.unity.com/hc/en-us/articles/206336795-What-platforms-are-supported-by-Unity) is cross-platform.***
+
 ### Public/Private Work
 
 [This GitHub account](https://github.com/stephensmitchell) and [Gitea](https://tn7jff.gitea.cloud/explore/repos) will include public repositories.  
@@ -103,7 +105,5 @@ The Philosophy
 The Software
 
 *Testbed (as a noun) embodies the philosophy and also serves as a test bed (as a verb) for the problem it is designed to solve. Source code, design assets, tests, prototypes, failures, issues, and every other resource that make up the compiled or published solution are included and fully accessible to end users. The sole exception is commercial or private IP however, the developer may provide a placeholder reference within a plugin to represent those proprietary components. There is no distinction between the developer and the end user. Testbed is an integrated environment for building tools tailored to CAD, CAE, and CGI solutions.*
-
-***I'm considering [Eto Forms](https://github.com/picoe/Eto), [Avalonia](https://avaloniaui.net/platforms) and [Uno Platform](https://platform.uno/) for web, macOS and Linux builds of Testbed UI & Testbed CLI. Testbed Unity, which is built in [Unity](https://support.unity.com/hc/en-us/articles/206336795-What-platforms-are-supported-by-Unity) is cross-platform.***
 
 ***Due to restrictions and conflicts between commercial and opensource licensing as well as the very specific software, modern development tooling, and tight OS level integration that Testbed projects require, I cannot share Testbed projects or any source code in uncompiled plaintext form. However, I can provide code examples on request and contribute to your public or private projects when you have specific questions or issues. I will make the base applications, templates and plugin source code that do not rely on commercially licensed software or private IP available. Testbed project repositories will contain only the application shell or default configuration, without any CAD libraries, databases, plugins or software integrations.The purpose of sharing my work is for collaboration, feel free to get in touch!***
