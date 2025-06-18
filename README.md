@@ -40,7 +40,7 @@ My plan is for Testbed software to be feature-complete on Windows 11, macOS (App
         - Tools
         - Pipeline tools
         - Alibre Design nodes
-- [placeholders/roadmap]
+- [placeholders/roadmap/areas of interest]
     - Design file and development project templates
     - CMS IntelliCAD
     - Autodesk Apps
@@ -56,9 +56,20 @@ My plan is for Testbed software to be feature-complete on Windows 11, macOS (App
     - MoI
     - Godot Engine
     - Unity
+    - Unreal Engine
+    - Marmoset Toolbag
+    - Matlab/Octave
+    - Open Cascade
     - SMath
     - MathCAD
     - QCAD
+    - FreeCAD
+    - macOS
+    - Linux
+    - Web
+    - ThreeJS
+    - BabylonJS
+    - Processing
     - In Production
     - By Task
     - By Type
