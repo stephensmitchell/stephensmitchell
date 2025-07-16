@@ -15,33 +15,7 @@ My plan is for Testbed software to be feature-complete on Windows 11, macOS (App
 [This GitHub account](https://github.com/stephensmitchell) and [Gitea](https://tn7jff.gitea.cloud/explore/repos) will include public repositories.  
 [Testbed-for-Alibre-Design](https://github.com/Testbed-for-Alibre-Design) is now [Gitea](https://tn7jff.gitea.cloud/explore/repos).
 
-- Tooling
-    - gmsh-dotnet
-    - freecad-dotnet
-    - blender-dotnet
-    - dotnet tools
-        - Get-Installed-Addons
-    - AI tool pipeline
-- In Development
-    - Alibre Design V28
-        - Assimp Inside Alibre Design (AIAD)
-        - Testbed Inside Alibre Design (TIAD)
-        - Dynamo for Alibre Design (D4AD)
-        - FreeCAD Inside Alibre Design (FIAD)
-        - Rhino/Grasshopper Inside Alibre Design (RGIAD)
-        - Alibre Python Shell
-        - Alibre-Script-Runner
-        - Function-Libraries
-        - Sketch-Function-Library
-    - Grasshopper
-        - Generators
-        - Tools
-        - Alibre Design components
-    - Dynamo
-        - Generators
-        - Tools
-        - Pipeline tools
-        - Alibre Design nodes
+- Under Construction
 - [placeholders/roadmap/areas of interest]
     - Design file and development project templates
     - CMS IntelliCAD
