@@ -1,6 +1,4 @@
 Public/Private Work
-
-Here's that list again, but all in lowercase:
 - alibre
     - alibre-addon-registry-tool
     - alibre-assimp-addon
