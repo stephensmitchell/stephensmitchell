@@ -1,11 +1,50 @@
+Public/Private Work
 
-
-### Public/Private Work
-
-[This GitHub account](https://github.com/stephensmitchell) and [Gitea](https://tn7jff.gitea.cloud/explore/repos) will include public repositories.  
-[Testbed-for-Alibre-Design](https://github.com/Testbed-for-Alibre-Design) is now [Gitea](https://tn7jff.gitea.cloud/explore/repos).
-
-- Under Construction
+Here's that list again, but all in lowercase:
+- alibre
+    - alibre-addon-registry-tool
+    - alibre-assimp-addon
+    - alibre-design-explorer-refresh-tool
+    - alibre-dynamo-addon
+    - alibre-export-addon
+    - alibre-fillet-r-and-d 
+    - alibre-freecad-addon
+    - alibre-function-libraries
+    - alibre-hoops-addon
+    - alibre-logos
+    - alibre-multi-target-template
+    - alibre-preset-system-demo
+    - alibre-programming
+    - alibre-python-shell-addon
+    - alibre-script
+    - alibre-script-examples
+    - alibre-script-library-examples
+    - alibre-script-runner
+    - alibre-scripting-addon
+    - alibre-sketch-function-library
+    - alibre-stltostp-addon
+    - alibre-testbed-addon
+- autocad
+- blender
+    - blender-export-tool
+    - blender-dotnet
+- dynamo
+- excel
+- freecad
+    - freecad-export-tool
+    - freecad-dotnet
+- grasshopper
+- gmsh
+    - gmsh-dotnet
+- meshmixer
+  - meshmixer-dotnet
+- intellicad
+- inventor
+- revit
+- rhino
+- solid edge
+- solidworks
+- unity
 - [placeholders/roadmap/areas of interest]
     - Design file and development project templates
     - CMS IntelliCAD
@@ -53,17 +92,17 @@
         - [.NET Programs and Add-Ons Database for Alibre Design](https://adai.donetoolkit.com/AI-Generated-Programs-and-Add-Ons-Database-for-Alibre-Design-1805708902a080a7a754d16859ee175d)  
 
 
-### Tool building tools
+Tool building tools
 
-**Testbed UI** -> Data-driven, automation and scripting, plugin based software for building CAD/CAE/CGI solutions. Testbed UI is currently WPF and targets .NET Framework 4.8.1.
+--Testbed UI-- -> Data-driven, automation and scripting, plugin based software for building CAD/CAE/CGI solutions. Testbed UI is currently WPF and targets .NET Framework 4.8.1.
 
-**Testbed Unity** -> Tool and task building with integrated C# programming, visual programming, user interface development with cross-platform tool publishing utilizing Unity editor scripting APIs. 
+--Testbed Unity-- -> Tool and task building with integrated C# programming, visual programming, user interface development with cross-platform tool publishing utilizing Unity editor scripting APIs. 
 
-**Testbed CLI** -> **Testbed UI** has an integrated CLI and GUI. **Testbed CLI** is CLI only and is more general purpose.
+--Testbed CLI-- -> --Testbed UI-- has an integrated CLI and GUI. --Testbed CLI-- is CLI only and is more general purpose.
 
 My plan is for Testbed software to be feature-complete on Windows 11, macOS (Apple Silicon), and Linux.
 
-***I'm considering [Eto Forms](https://github.com/picoe/Eto), [Avalonia](https://avaloniaui.net/platforms) and [Uno Platform](https://platform.uno/) for web, macOS and Linux builds of Testbed UI & Testbed CLI. Testbed Unity, which is built in [Unity](https://support.unity.com/hc/en-us/articles/206336795-What-platforms-are-supported-by-Unity) is cross-platform.***
+---I'm considering [Eto Forms](https://github.com/picoe/Eto), [Avalonia](https://avaloniaui.net/platforms) and [Uno Platform](https://platform.uno/) for web, macOS and Linux builds of Testbed UI & Testbed CLI. Testbed Unity, which is built in [Unity](https://support.unity.com/hc/en-us/articles/206336795-What-platforms-are-supported-by-Unity) is cross-platform.---
 
 What is Testbed (formerly Donetoolkit)?
   
@@ -71,10 +110,10 @@ Testbed is my development approach in which every aspect of a project or product
 
 The Philosophy
 
-*Testbed (as a verb) usage here is the concept of continuous integration of exploration, R&D, QA, support and testing for a given application, tool, project or product throughout its life. This is in contrast to how traditional work is done where testing, quality, support, R&D and other activities are treated as independent stages or teams. Complete transparency is truely the goal.* 
+-Testbed (as a verb) usage here is the concept of continuous integration of exploration, R&D, QA, support and testing for a given application, tool, project or product throughout its life. This is in contrast to how traditional work is done where testing, quality, support, R&D and other activities are treated as independent stages or teams. Complete transparency is truely the goal.- 
 
 The Software
 
-*Testbed (as a noun) embodies the philosophy and also serves as a test bed (as a verb) for the problem it is designed to solve. Source code, design assets, tests, prototypes, failures, issues, and every other resource that make up the compiled or published solution are included and fully accessible to end users. The sole exception is commercial or private IP however, the developer may provide a placeholder reference within a plugin to represent those proprietary components. There is no distinction between the developer and the end user. Testbed is an integrated environment for building tools tailored to CAD, CAE, and CGI solutions.*
+-Testbed (as a noun) embodies the philosophy and also serves as a test bed (as a verb) for the problem it is designed to solve. Source code, design assets, tests, prototypes, failures, issues, and every other resource that make up the compiled or published solution are included and fully accessible to end users. The sole exception is commercial or private IP however, the developer may provide a placeholder reference within a plugin to represent those proprietary components. There is no distinction between the developer and the end user. Testbed is an integrated environment for building tools tailored to CAD, CAE, and CGI solutions.-
 
-***Due to restrictions and conflicts between commercial and opensource licensing as well as the very specific software, modern development tooling, and tight OS level integration that Testbed projects require, I cannot share Testbed projects or any source code in uncompiled plaintext form. However, I can provide code examples on request and contribute to your public or private projects when you have specific questions or issues. I will make the base applications, templates and plugin source code that do not rely on commercially licensed software or private IP available. Testbed project repositories will contain only the application shell or default configuration, without any CAD libraries, databases, plugins or software integrations.The purpose of sharing my work is for collaboration, feel free to get in touch!***
+---Due to restrictions and conflicts between commercial and opensource licensing as well as the very specific software, modern development tooling, and tight OS level integration that Testbed projects require, I cannot share Testbed projects or any source code in uncompiled plaintext form. However, I can provide code examples on request and contribute to your public or private projects when you have specific questions or issues. I will make the base applications, templates and plugin source code that do not rely on commercially licensed software or private IP available. Testbed project repositories will contain only the application shell or default configuration, without any CAD libraries, databases, plugins or software integrations.The purpose of sharing my work is for collaboration, feel free to get in touch!---
