@@ -6,6 +6,7 @@ Public/Private Work
         - [Alibre.Forum_.Stepalibre.Posts_CORRECTION_MADE.pdf](https://github.com/user-attachments/files/21431354/Alibre.Forum_.Stepalibre.Posts_CORRECTION_MADE.pdf) - genai
         - [Posts by @stepalibre on the Alibre User Forum.pdf](https://github.com/user-attachments/files/21431102/Posts.by.%40stepalibre.on.the.Alibre.User.Forum.pdf) - genai
         - [User Profile Report_ __@stepalibre__ on the Alibre.pdf](https://github.com/user-attachments/files/21433535/User.Profile.Report_.__%40stepalibre__.on.the.Alibre.pdf) - genai
+        - [Forum Profile Analysis @stepalibre on Alibre Forums.pdf](https://github.com/user-attachments/files/21433902/Forum.Profile.Analysis.%40stepalibre.on.Alibre.Forums.pdf) - genai
     - alibre-addon-registry-tool
     - alibre-assimp-addon
     - alibre-design-explorer-refresh-tool
