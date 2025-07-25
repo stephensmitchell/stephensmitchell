@@ -2,6 +2,7 @@ Public/Private Work
 - alibre
     - **forum threads/posts lists and reports – some documents are ai-generated and may contain false or inaccurate claims – for reference use only.**
         - [Alibre Forum_ Stepalibre Posts_.pdf](https://github.com/user-attachments/files/21430840/Alibre.Forum_.Stepalibre.Posts_.pdf) - genai
+        - [Posts by @stepalibre on the Alibre User Forum.pdf](https://github.com/user-attachments/files/21431102/Posts.by.%40stepalibre.on.the.Alibre.User.Forum.pdf) - genai
     - alibre-addon-registry-tool
     - alibre-assimp-addon
     - alibre-design-explorer-refresh-tool
