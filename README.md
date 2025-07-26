@@ -2,6 +2,7 @@ Public/Private Work
 - alibre
     - **forum threads/posts lists and reports – some documents are ai-generated and may contain false or inaccurate claims – for reference use only.**
         - primary source - https://www.alibre.com/forum/index.php
+        - [Audio Overview](https://www.notion.so/donetoolkit/Audio-Overview-23c5708902a0801a8860e9a26b9131ce?source=copy_link)
         - [Alibre Forum_ Stepalibre Posts_.pdf](https://github.com/user-attachments/files/21430840/Alibre.Forum_.Stepalibre.Posts_.pdf) - genai
         - [Alibre.Forum_.Stepalibre.Posts_CORRECTION_MADE.pdf](https://github.com/user-attachments/files/21431354/Alibre.Forum_.Stepalibre.Posts_CORRECTION_MADE.pdf) - genai
         - [Posts by @stepalibre on the Alibre User Forum.pdf](https://github.com/user-attachments/files/21431102/Posts.by.%40stepalibre.on.the.Alibre.User.Forum.pdf) - genai
