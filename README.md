@@ -1,6 +1,8 @@
 [ YOUTUBE ](https://www.youtube.com/@stephensmitchell/videos)
 
-Public/Private Work
+[ PRIVATE FORUM ](https://adk.discourse.group/invites/SLMLVC2fWV)
+
+Public/Private Work 
 - alibre
     - **forum threads/posts lists and reports – some documents and videos are ai-generated and may contain false or inaccurate claims – for reference use only.**
         - primary source - https://www.alibre.com/forum/index.php
