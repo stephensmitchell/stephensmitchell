@@ -2,6 +2,12 @@
 
 [ PRIVATE FORUM ](https://adk.discourse.group/invites/SLMLVC2fWV)
 
+    - HELP GETTING STARTED
+    - ACCESS T0 PRIVATE NOTION DATABASES, ADDONS AND SCRIPTS
+    - SCRIPT/ADDON REQUESTS
+    - FREE/PAID PRODUCTS AND RESOURCES 
+    - BUSINESS INQUIRIES
+    
 Public/Private Work 
 - alibre
     - **forum threads/posts lists and reports – some documents and videos are ai-generated and may contain false or inaccurate claims – for reference use only.**
