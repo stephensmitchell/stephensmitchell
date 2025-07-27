@@ -1,13 +1,15 @@
+[ YOUTUBE ](https://www.youtube.com/@stephensmitchell/videos)
+
 Public/Private Work
 - alibre
-    - **forum threads/posts lists and reports – some documents are ai-generated and may contain false or inaccurate claims – for reference use only.**
+    - **forum threads/posts lists and reports – some documents and videos are ai-generated and may contain false or inaccurate claims – for reference use only.**
         - primary source - https://www.alibre.com/forum/index.php
         - [Audio Overview](https://www.notion.so/donetoolkit/Audio-Overview-23c5708902a0801a8860e9a26b9131ce?source=copy_link)
-        - [Alibre Forum_ Stepalibre Posts_.pdf](https://github.com/user-attachments/files/21430840/Alibre.Forum_.Stepalibre.Posts_.pdf) - genai
-        - [Alibre.Forum_.Stepalibre.Posts_CORRECTION_MADE.pdf](https://github.com/user-attachments/files/21431354/Alibre.Forum_.Stepalibre.Posts_CORRECTION_MADE.pdf) - genai
-        - [Posts by @stepalibre on the Alibre User Forum.pdf](https://github.com/user-attachments/files/21431102/Posts.by.%40stepalibre.on.the.Alibre.User.Forum.pdf) - genai
-        - [User Profile Report_ __@stepalibre__ on the Alibre.pdf](https://github.com/user-attachments/files/21433535/User.Profile.Report_.__%40stepalibre__.on.the.Alibre.pdf) - genai
-        - [Forum Profile Analysis @stepalibre on Alibre Forums.pdf](https://github.com/user-attachments/files/21433902/Forum.Profile.Analysis.%40stepalibre.on.Alibre.Forums.pdf) - genai
+        - [Alibre Forum_ Stepalibre Posts_.pdf](https://github.com/user-attachments/files/21430840/Alibre.Forum_.Stepalibre.Posts_.pdf)
+        - [Alibre.Forum_.Stepalibre.Posts_CORRECTION_MADE.pdf](https://github.com/user-attachments/files/21431354/Alibre.Forum_.Stepalibre.Posts_CORRECTION_MADE.pdf)
+        - [Posts by @stepalibre on the Alibre User Forum.pdf](https://github.com/user-attachments/files/21431102/Posts.by.%40stepalibre.on.the.Alibre.User.Forum.pdf)
+        - [User Profile Report_ __@stepalibre__ on the Alibre.pdf](https://github.com/user-attachments/files/21433535/User.Profile.Report_.__%40stepalibre__.on.the.Alibre.pdf)
+        - [Forum Profile Analysis @stepalibre on Alibre Forums.pdf](https://github.com/user-attachments/files/21433902/Forum.Profile.Analysis.%40stepalibre.on.Alibre.Forums.pdf)
     - alibre-addon-registry-tool
     - alibre-assimp-addon
     - alibre-design-explorer-refresh-tool
