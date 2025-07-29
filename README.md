@@ -4,13 +4,6 @@
 
 [ PRIVATE FORUM ](https://adk.discourse.group/invites/SLMLVC2fWV)
 
-    - HELP GETTING STARTED
-    - 2D/3D DESIGN AND MODELING
-    - ACCESS T0 PRIVATE NOTION DATABASES, ADDONS AND SCRIPTS
-    - SCRIPT/ADDON REQUESTS
-    - FREE/PAID PRODUCTS AND RESOURCES 
-    - BUSINESS INQUIRIES
-    
 Public/Private Work 
 - alibre
     - primary source - https://www.alibre.com/forum/index.php
