@@ -22,11 +22,11 @@ Public/Private Work
         - [Posts by @stepalibre on the Alibre User Forum.pdf](https://github.com/user-attachments/files/21431102/Posts.by.%40stepalibre.on.the.Alibre.User.Forum.pdf)
         - [User Profile Report_ __@stepalibre__ on the Alibre.pdf](https://github.com/user-attachments/files/21433535/User.Profile.Report_.__%40stepalibre__.on.the.Alibre.pdf)
         - [Forum Profile Analysis @stepalibre on Alibre Forums.pdf](https://github.com/user-attachments/files/21433902/Forum.Profile.Analysis.%40stepalibre.on.Alibre.Forums.pdf)
-    - alibre-addon-registry-tool
-    - alibre-assimp-addon
+    - [alibre-addon-registry-tool](https://github.com/stephensmitchell/alibre-addon-registry-tool)
+    - [alibre-assimp-addon](https://github.com/stephensmitchell/alibre-assimp-addon)
     - alibre-design-explorer-refresh-tool
     - alibre-dynamo-addon
-    - alibre-export-addon
+    - [alibre-export-addon](https://github.com/stephensmitchell/alibre-export-addon)
     - alibre-fillet-r-and-d 
     - alibre-freecad-addon
     - alibre-function-libraries
@@ -36,7 +36,7 @@ Public/Private Work
     - alibre-preset-system-demo
     - alibre-programming
     - alibre-python-shell-addon
-    - alibre-script
+    - [alibre-script](https://github.com/stephensmitchell/alibre-script)
     - alibre-script-examples
     - alibre-script-library-examples
     - alibre-script-runner
@@ -46,18 +46,18 @@ Public/Private Work
     - alibre-testbed-addon
 - autocad
 - blender
-    - blender-export-tool
-    - blender-dotnet
+    - [blender-export-tool](https://github.com/stephensmitchell/blender-export-tool)
+    - [blender-dotnet](https://github.com/stephensmitchell/blender-dotnet)
 - dynamo
 - excel
 - freecad
-    - freecad-export-tool
-    - freecad-dotnet
+    - [freecad-export-tool](https://github.com/stephensmitchell/freecad-export-tool)
+    - [freecad-dotnet](https://github.com/stephensmitchell/freecad-dotnet)
 - grasshopper
 - gmsh
-    - gmsh-dotnet
+    - [gmsh-dotnet](https://github.com/stephensmitchell/gmsh-dotnet)
 - meshmixer
-  - meshmixer-dotnet
+    - [meshmixer-dotnet](https://github.com/stephensmitchell/meshmixer-dotnet)
 - intellicad
 - inventor
 - revit
