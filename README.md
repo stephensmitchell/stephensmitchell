@@ -13,8 +13,6 @@
     
 Public/Private Work 
 - alibre
-    - **forum threads/posts lists and reports – some documents and videos are ai-generated and may contain false or inaccurate claims – for reference use only.***
-    - The purpose of this section is to collect my contributions. This include links, descriptions, Alibre Design, Alibre Script and AlibreX information. Anyone can create or generate these documents, videos and audio overviews for any purpose. I personally don't endorse or has vetted every claim, these are strictly for research, development and reference use only. Please refer to primary sources of information and fact check for yourself.
         - primary source - https://www.alibre.com/forum/index.php
         - [Audio Overview](https://www.notion.so/donetoolkit/Audio-Overview-23c5708902a0801a8860e9a26b9131ce?source=copy_link)
         - [Alibre Forum_ Stepalibre Posts_.pdf](https://github.com/user-attachments/files/21430840/Alibre.Forum_.Stepalibre.Posts_.pdf)
