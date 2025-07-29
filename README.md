@@ -51,15 +51,18 @@ Public/Private Work
     - [alibre-testbed-addon](https://github.com/stephensmitchell/alibre-testbed-addon)
     - [alibre-vscodium-addon](https://github.com/stephensmitchell/alibre-vscodium-addon)
 - autocad
+    - [autodesk-scripting-plugins](https://github.com/stephensmitchell/autodesk-scripting-plugins)
 - blender
     - [blender-export-tool](https://github.com/stephensmitchell/blender-export-tool)
     - [blender-dotnet](https://github.com/stephensmitchell/blender-dotnet)
 - dynamo
+    - [dynamo-scripting-plugin](https://github.com/stephensmitchell/dynamo-scripting-plugin)
 - excel
 - freecad
     - [freecad-export-tool](https://github.com/stephensmitchell/freecad-export-tool)
     - [freecad-dotnet](https://github.com/stephensmitchell/freecad-dotnet)
 - grasshopper
+    - [grasshopper-scripting-plugin](https://github.com/stephensmitchell/grasshopper-scripting-plugin)
 - gmsh
     - [gmsh-dotnet](https://github.com/stephensmitchell/gmsh-dotnet)
 - meshmixer
@@ -68,38 +71,35 @@ Public/Private Work
 - inventor
 - revit
 - rhino
+    - [rhino-scripting-plugin](https://github.com/stephensmitchell/rhino-scripting-plugin)
 - solid edge
 - solidworks
 - unity
+    - [unity-cad-management-package](https://github.com/stephensmitchell/unity-cad-management-package)
+    - [unity-cad-manager](https://github.com/stephensmitchell/unity-cad-manager)
 - other
     - [stephensmitchell](https://github.com/stephensmitchell/stephensmitchell) (this profile repository)
     - [AlibreBOM](https://github.com/stephensmitchell/AlibreBOM)
     - [AlibreExportOpen](https://github.com/stephensmitchell/AlibreExportOpen)
     - [AnimationAddOn-Updated](https://github.com/stephensmitchell/AnimationAddOn-Updated)
     - [AnimationSampleAddOn](https://github.com/stephensmitchell/AnimationSampleAddOn)
-    - [autodesk-scripting-plugins](https://github.com/stephensmitchell/autodesk-scripting-plugins)
     - [BaseAddon-addon](https://github.com/stephensmitchell/BaseAddon-addon)
     - [cad-programming-templates](https://github.com/stephensmitchell/cad-programming-templates)
     - [cppAddons](https://github.com/stephensmitchell/cppAddons)
     - [CycloidalGear](https://github.com/stephensmitchell/CycloidalGear)
     - [DataBrowserForAlibre](https://github.com/stephensmitchell/DataBrowserForAlibre)
-    - [dynamo-scripting-plugin](https://github.com/stephensmitchell/dynamo-scripting-plugin)
     - [DXSampleAddOn](https://github.com/stephensmitchell/DXSampleAddOn)
     - [DXSampleAddOn-Updated](https://github.com/stephensmitchell/DXSampleAddOn-Updated)
     - [GearCalculator](https://github.com/stephensmitchell/GearCalculator)
     - [genai-chat-logs](https://github.com/stephensmitchell/genai-chat-logs)
-    - [grasshopper-scripting-plugin](https://github.com/stephensmitchell/grasshopper-scripting-plugin)
     - [IIconss](https://github.com/stephensmitchell/IIconss)
     - [resources](https://github.com/stephensmitchell/resources)
-    - [rhino-scripting-plugin](https://github.com/stephensmitchell/rhino-scripting-plugin)
     - [SelectionAddon](https://github.com/stephensmitchell/SelectionAddon)
     - [SelectionAddOnSample-Updated](https://github.com/stephensmitchell/SelectionAddOnSample-Updated)
     - [SelectionSampleAddOn](https://github.com/stephensmitchell/SelectionSampleAddOn)
     - [sgcore-docs](https://github.com/stephensmitchell/sgcore-docs)
     - [SimpleCppAddon](https://github.com/stephensmitchell/SimpleCppAddon)
     - [SimpleCppAddon-code](https://github.com/stephensmitchell/SimpleCppAddon-code)
-    - [unity-cad-management-package](https://github.com/stephensmitchell/unity-cad-management-package)
-    - [unity-cad-manager](https://github.com/stephensmitchell/unity-cad-manager)
     - [UtilitiesForAlibre](https://github.com/stephensmitchell/UtilitiesForAlibre)
 - [placeholders/roadmap/areas of interest]
     - Design file and development project templates
