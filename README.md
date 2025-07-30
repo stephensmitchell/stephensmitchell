@@ -1,11 +1,7 @@
 [ YOUTUBE ](https://www.youtube.com/@stephensmitchell/videos)
 
-[ DISCORD ](https://discord.gg/caUKrFK2)
-
-[ PRIVATE FORUM ](https://adk.discourse.group/invites/SLMLVC2fWV)
-
 Public/Private Work 
-- alibre
+- alibre+
     - primary source - https://www.alibre.com/forum/index.php
     - [Audio Overview](https://www.notion.so/donetoolkit/Audio-Overview-23c5708902a0801a8860e9a26b9131ce?source=copy_link)
     - [Alibre Forum_ Stepalibre Posts_.pdf](https://github.com/user-attachments/files/21430840/Alibre.Forum_.Stepalibre.Posts_.pdf)
