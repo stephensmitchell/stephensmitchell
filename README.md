@@ -1,3 +1,20 @@
+- Join my Discord, Slack, or Telegram channels for:
+    - General help and technical discussions
+    - Ideas and requests
+    - Troubleshooting
+    - My free projects and paid product support
+    - If you want to build something at no cost, to sell, or for your business
+    - Anything
+
+Discord:
+https://discord.gg/UkPGWxcu
+
+Slack:
+https://join.slack.com/t/stephensmitchellgroup/shared_invite/zt-3bgeqx6at-aO44pHYyYY6bHeiCpsZZDQ
+
+Telegram:
+https://t.me/+pBfqILTpUEJlNWQx
+
 [ YOUTUBE ](https://www.youtube.com/@stephensmitchell/videos)
 
 Public/Private Work 
