@@ -1,4 +1,4 @@
-- Join my Discord, Slack, or Telegram channels for:
+- Join my Discord or Forum for:
     - General help and technical discussions
     - Ideas and requests
     - Troubleshooting
@@ -6,14 +6,9 @@
     - If you want to build something at no cost, to sell, or for your business
     - Anything
 
-Discord:
-https://discord.gg/UkPGWxcu
+[ FORUM ](https://adk.discourse.group/invites/SLMLVC2fWV)
 
-Slack:
-https://join.slack.com/t/stephensmitchellgroup/shared_invite/zt-3bgeqx6at-aO44pHYyYY6bHeiCpsZZDQ
-
-Telegram:
-https://t.me/+pBfqILTpUEJlNWQx
+[ DISCORD ](https://discord.gg/UkPGWxcu)
 
 [ YOUTUBE ](https://www.youtube.com/@stephensmitchell/videos)
 
