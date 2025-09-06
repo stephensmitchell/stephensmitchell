@@ -8,7 +8,7 @@
 
 [ FORUM ](https://adk.discourse.group/invites/SLMLVC2fWV)
 
-[ DISCORD ](https://discord.gg/UkPGWxcu)
+[ DISCORD ](https://discord.gg/utaaGsaX)
 
 [ YOUTUBE ](https://www.youtube.com/@stephensmitchell/videos)
 
