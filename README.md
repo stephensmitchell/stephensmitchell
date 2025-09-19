@@ -1,7 +1,7 @@
+> [!NOTE]
+> DRAFT VERSION
 <div align="center">
-
-# Connect with Me
-
+    
 [**FORUM**](https://adk.discourse.group/invites/SLMLVC2fWV) • [**DISCORD**](https://discord.gg/utaaGsaX) • [**YOUTUBE**](https://www.youtube.com/@stephensmitchell/videos)
 
 </div>
