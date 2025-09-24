@@ -2,7 +2,7 @@
 > DRAFT VERSION
 <div align="center">
     
-[**FORUM**](https://adk.discourse.group/invites/SLMLVC2fWV) • [**DISCORD**](https://discord.gg/utaaGsaX) • [**YOUTUBE**](https://www.youtube.com/@stephensmitchell/videos)
+[**FORUM**](https://adk.discourse.group/invites/SLMLVC2fWV) • [**DISCORD**](https://discord.gg/wNBAMZXM) • [**YOUTUBE**](https://www.youtube.com/@stephensmitchell/videos)
 
 </div>
 
