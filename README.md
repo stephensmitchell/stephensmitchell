@@ -265,9 +265,8 @@ Repositories:
 <details>
 <summary><strong>AI-Generated Content</strong></summary>
 
-- [Alibre Script and IronPython 2.7 Scripts Database for Alibre Design](https://www.notion.so/donetoolkit/AI-Generated-Scripts-and-Add-Ons-Database-for-Alibre-Design-1775708902a080fe9ae9dbbb7592b579)  
-- [.NET Programs and Add-Ons Database for Alibre Design](https://www.notion.so/donetoolkit/AI-Generated-Programs-and-Add-Ons-Database-for-Alibre-Design-1805708902a080a7a754d16859ee175d)
-
+- Alibre Script and IronPython 2.7 Scripts Database for Alibre Design [ OFFLINE MODE | NEW SITE COMING SOON! ]
+- .NET Programs and Add-Ons Database for Alibre Design [ OFFLINE MODE | NEW SITE COMING SOON! ]
 </details>
 
 ---
