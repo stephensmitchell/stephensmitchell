@@ -7,6 +7,8 @@
 </div>
 
 > **Note:** Each named section below is a toggle panel. Click the ▸ or ▼ icon to **expand or collapse** content.
+>
+>  Repositories are open source, but closed to contributions.
 
 <details>
 <summary><strong>Community & Support</strong></summary>
