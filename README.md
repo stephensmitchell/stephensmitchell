@@ -1,5 +1,3 @@
-> [!NOTE]
-> DRAFT VERSION
 <div align="center">
     
 [**WORK TRACKER**](https://github.com/users/stephensmitchell/projects/4) • [**FORUM**](https://discord.gg/cC3PyMMyg8) • [**DISCORD**](https://discord.gg/cC3PyMMyg8) • [**YOUTUBE**](https://www.youtube.com/@stephensmitchell/featured)
@@ -8,18 +6,7 @@
 
 > **Note:** Each named section below is a toggle panel. Click the ▸ or ▼ icon to **expand or collapse** content.
 >
->  Repositories are open source, but closed to contributions.
-
-<details>
-<summary><strong>Community & Support</strong></summary>
-    
-    - General help and technical discussions
-    - Ideas and requests
-    - Troubleshooting
-    - GitHub projects and paid product support
-    - If you want to build something at no cost, to sell, or for your business
-    - Anything
-</details>
+>  Most repositories are open source or source available, and closed to contributions.
 
 <div align="center">
 
@@ -91,7 +78,7 @@
 
 <div align="center">
 
-# Public / Private Work
+# Public / Private Work [OUT-OF-DATE]
 
 </div>
 <div align="left">
@@ -281,7 +268,7 @@ Repositories:
 
 </div>
 <details>
-<summary><strong>Strategic and Development Focus</strong></summary>
+<summary><strong>Strategic and Development Focus[DRAFT]</strong></summary>
 
 - Design file and development project templates  
 - CMS IntelliCAD  
@@ -334,7 +321,7 @@ Repositories:
 
 </div>
 <details>
-<summary><strong>AI-Generated Content</strong></summary>
+<summary><strong>AI-Generated Content[DRAFT]</strong></summary>
 
 - Alibre Script and IronPython 2.7 Scripts Database for Alibre Design [ OFFLINE MODE | NEW SITE COMING SOON! ]
 - .NET Programs and Add-Ons Database for Alibre Design [ OFFLINE MODE | NEW SITE COMING SOON! ]
@@ -344,11 +331,11 @@ Repositories:
 
 <div align="center">
 
-# Tool-Building Tech.
+# Tool-Building Tech. 
 
 </div>
 <details>
-<summary><strong>Testbed Overview</strong></summary>
+<summary><strong>Testbed Overview[DRAFT]</strong></summary>
 
 **Testbed UI** → Data-driven, automation and scripting, plugin-based software for building CAD/CAE/CGI solutions. Testbed UI currently uses WPF and targets .NET Framework 4.8.1.
 
