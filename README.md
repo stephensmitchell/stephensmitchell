@@ -190,10 +190,6 @@ Repositories:
 - [relief-maker](https://github.com/stephensmitchell/relief-maker) – Relief Maker tooling and resources.  
 - [IIconss](https://github.com/stephensmitchell/IIconss) – Icons and imagery management utility.  
 - [sgcore-docs](https://github.com/stephensmitchell/sgcore-docs) – Personal sgCore documentation site.  
-- [rhino-development](https://github.com/stephensmitchell/rhino-development)  
-- [grasshopper-development](https://github.com/stephensmitchell/grasshopper-development)  
-- [dynamo-development](https://github.com/stephensmitchell/dynamo-development)  
-- [spaceframe-tooling](https://github.com/stephensmitchell/spaceframe-tooling)  
 - [stephensmitchell](https://github.com/stephensmitchell/stephensmitchell) – Profile repository.  
 
 </details>
