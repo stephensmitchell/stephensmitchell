@@ -111,7 +111,6 @@ Repositories:
 - [alibre-factory](https://github.com/stephensmitchell/alibre-factory) – Information about Alibre add-on repositories.  
 - [GetInstalledAddons.Tool](https://github.com/stephensmitchell/GetInstalledAddons.Tool) – Utility for inspecting installed Alibre add-ons.  
 
-Related tooling:  
 - [AlibreScript-playground](https://github.com/stephensmitchell/AlibreScript-playground) – Browser-based code editor for AlibreScript.  
 - [AlibreScript-vscode](https://github.com/stephensmitchell/AlibreScript-vscode) – VS Code extension for AlibreScript programming.  
 
