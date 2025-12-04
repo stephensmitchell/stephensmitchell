@@ -78,7 +78,7 @@
 
 <div align="center">
 
-# Public / Private Work [OUT-OF-DATE]
+# Public / Private Work
 
 </div>
 <div align="left">
@@ -95,92 +95,49 @@ Primary source – [Alibre Forum](https://www.alibre.com/forum/index.php)
 - [Forum Profile Analysis @stepalibre on Alibre Forums.pdf](https://github.com/user-attachments/files/21433902/Forum.Profile.Analysis.%40stepalibre.on.Alibre.Forums.pdf)
 
 Repositories:  
-- [alibre-addon-registry-tool](https://github.com/stephensmitchell/alibre-addon-registry-tool)  
-- [alibre-adk-testbed](https://github.com/stephensmitchell/alibre-adk-testbed)  
-- [alibre-assimp-addon](https://github.com/stephensmitchell/alibre-assimp-addon)  
-- [alibre-cpp-addon-template](https://github.com/stephensmitchell/alibre-cpp-addon-template)  
-- [alibre-cpp-addon-template-2](https://github.com/stephensmitchell/alibre-cpp-addon-template-2)  
-- [alibre-design-explorer-refresh-tool](https://github.com/stephensmitchell/alibre-design-explorer-refresh-tool)  
-- [alibre-dynamo-addon](https://github.com/stephensmitchell/alibre-dynamo-addon)  
-- [alibre-excel-addon](https://github.com/stephensmitchell/alibre-excel-addon)  
-- [alibre-export-addon](https://github.com/stephensmitchell/alibre-export-addon)  
-- [alibre-feature-naming-addon](https://github.com/stephensmitchell/alibre-feature-naming-addon)  
-- [alibre-fillet-r-and-d](https://github.com/stephensmitchell/alibre-fillet-r-and-d)  
-- [alibre-freecad-addon](https://github.com/stephensmitchell/alibre-freecad-addon)  
-- [alibre-function-libraries](https://github.com/stephensmitchell/alibre-function-libraries)  
-- [alibre-gh-addon](https://github.com/stephensmitchell/alibre-gh-addon)  
-- [alibre-HOOPS-addon](https://github.com/stephensmitchell/alibre-HOOPS-addon)  
-- [alibre-lab-addon](https://github.com/stephensmitchell/alibre-lab-addon)  
-- [alibre-logos](https://github.com/stephensmitchell/alibre-logos)  
-- [alibre-multi-target-template](https://github.com/stephensmitchell/alibre-multi-target-template)  
-- [alibre-nocode-addon](https://github.com/stephensmitchell/alibre-nocode-addon)  
-- [alibre-nodes-addon](https://github.com/stephensmitchell/alibre-nodes-addon)  
-- [alibre-preset-system-demo](https://github.com/stephensmitchell/alibre-preset-system-demo)  
-- [alibre-programming](https://github.com/stephensmitchell/alibre-programming)  
-- [alibre-python-shell-addon](https://github.com/stephensmitchell/alibre-python-shell-addon)  
-- [alibre-script](https://github.com/stephensmitchell/alibre-script)  
-- [alibre-script-adk](https://github.com/stephensmitchell/alibre-script-adk)  
-- [alibre-script-adk-addon-template](https://github.com/stephensmitchell/alibre-script-adk-addon-template)  
-- [alibre-script-examples](https://github.com/stephensmitchell/alibre-script-examples)  
-- [alibre-script-library-examples](https://github.com/stephensmitchell/alibre-script-library-examples)  
-- [alibre-script-runner](https://github.com/stephensmitchell/alibre-script-runner)  
-- [alibre-script-runner-addon](https://github.com/stephensmitchell/alibre-script-runner-addon)  
-- [alibre-scripting-addon](https://github.com/stephensmitchell/alibre-scripting-addon)  
-- [alibre-shapes-addon](https://github.com/stephensmitchell/alibre-shapes-addon)  
-- [alibre-sketch-function-library](https://github.com/stephensmitchell/alibre-sketch-function-library)  
-- [alibre-skinning-addon](https://github.com/stephensmitchell/alibre-skinning-addon)  
-- [alibre-stltostp-addon](https://github.com/stephensmitchell/alibre-stltostp-addon)  
-- [alibre-testbed-addon](https://github.com/stephensmitchell/alibre-testbed-addon)  
-- [alibre-vscodium-addon](https://github.com/stephensmitchell/alibre-vscodium-addon)
+- [alibre](https://github.com/stephensmitchell/alibre) – Dedicated add-ons and tools bundled for release.  
+- [alibre-development](https://github.com/stephensmitchell/alibre-development) – Comprehensive source for development resources, starter projects, and tooling.  
+- [alibre-programming](https://github.com/stephensmitchell/alibre-programming) – Alibre Script and AlibreX example code.  
+- [alibre-script](https://github.com/stephensmitchell/alibre-script) – Alibre Script examples, demos, and experiments.  
+- [alibre-script-adk](https://github.com/stephensmitchell/alibre-script-adk) – Alibre Script add-on developer kit.  
+- [alibre-script-examples](https://github.com/stephensmitchell/alibre-script-examples) – Additional Alibre Script examples.  
+- [alibre-script-library-examples](https://github.com/stephensmitchell/alibre-script-library-examples) – Library-focused examples.  
+- [alibre-script-runner](https://github.com/stephensmitchell/alibre-script-runner) – Tools and utilities to bring Alibre Script into 2025.  
+- [alibre-script-documentation](https://github.com/stephensmitchell/alibre-script-documentation) – Alibre Script API documentation and wiki.  
+- [alibrex-documentation](https://github.com/stephensmitchell/alibrex-documentation) – AlibreX API documentation and wiki.  
+- [alibre-function-libraries](https://github.com/stephensmitchell/alibre-function-libraries) – Function-only libraries for Alibre Design API.  
+- [alibre-logos](https://github.com/stephensmitchell/alibre-logos) – Source files for Alibre logos.  
+- [alibre-content-library](https://github.com/stephensmitchell/alibre-content-library) – Content and library assets.  
+- [alibre-factory](https://github.com/stephensmitchell/alibre-factory) – Information about Alibre add-on repositories.  
+- [GetInstalledAddons.Tool](https://github.com/stephensmitchell/GetInstalledAddons.Tool) – Utility for inspecting installed Alibre add-ons.  
 
-</details>
-
-<details>
-<summary><strong>Autocad</strong></summary>
-
-- [autodesk-scripting-plugins](https://github.com/stephensmitchell/autodesk-scripting-plugins)
-
-</details>
-
-<details>
-<summary><strong>Blender</strong></summary>
-
-- [blender-export-tool](https://github.com/stephensmitchell/blender-export-tool)  
-- [blender-dotnet](https://github.com/stephensmitchell/blender-dotnet)
+Related tooling:  
+- [AlibreScript-playground](https://github.com/stephensmitchell/AlibreScript-playground) – Browser-based code editor for AlibreScript.  
+- [AlibreScript-vscode](https://github.com/stephensmitchell/AlibreScript-vscode) – VS Code extension for AlibreScript programming.  
 
 </details>
 
 <details>
 <summary><strong>Dynamo</strong></summary>
 
+- [dynamo-development](https://github.com/stephensmitchell/dynamo-development)  
 - [dynamo-scripting-plugin](https://github.com/stephensmitchell/dynamo-scripting-plugin)
-
-</details>
-
-<details>
-<summary><strong>Excel</strong></summary>
-*(no linked projects yet)*
-</details>
-
-<details>
-<summary><strong>FreeCAD</strong></summary>
-
-- [freecad-export-tool](https://github.com/stephensmitchell/freecad-export-tool)  
-- [freecad-dotnet](https://github.com/stephensmitchell/freecad-dotnet)
 
 </details>
 
 <details>
 <summary><strong>Grasshopper</strong></summary>
 
+- [grasshopper-development](https://github.com/stephensmitchell/grasshopper-development)  
 - [grasshopper-scripting-plugin](https://github.com/stephensmitchell/grasshopper-scripting-plugin)
 
 </details>
 
 <details>
-<summary><strong>Gmsh</strong></summary>
+<summary><strong>Rhino</strong></summary>
 
-- [gmsh-dotnet](https://github.com/stephensmitchell/gmsh-dotnet)
+- [rhino-development](https://github.com/stephensmitchell/rhino-development)  
+- [rhino-scripting-plugin](https://github.com/stephensmitchell/rhino-scripting-plugin)
 
 </details>
 
@@ -192,71 +149,53 @@ Repositories:
 </details>
 
 <details>
-<summary><strong>Intellicad</strong></summary>
-*(no linked projects yet)*
-</details>
+<summary><strong>Gmsh</strong></summary>
 
-<details>
-<summary><strong>Inventor</strong></summary>
-*(no linked projects yet)*
-</details>
-
-<details>
-<summary><strong>Revit</strong></summary>
-*(no linked projects yet)*
-</details>
-
-<details>
-<summary><strong>Rhino</strong></summary>
-
-- [rhino-scripting-plugin](https://github.com/stephensmitchell/rhino-scripting-plugin)
+- [gmsh-dotnet](https://github.com/stephensmitchell/gmsh-dotnet)
 
 </details>
 
 <details>
-<summary><strong>Solid Edge</strong></summary>
-*(no linked projects yet)*
+<summary><strong>FreeCAD</strong></summary>
+
+- [freecad-dotnet](https://github.com/stephensmitchell/freecad-dotnet)
+
 </details>
 
 <details>
-<summary><strong>SolidWorks</strong></summary>
-*(no linked projects yet)*
+<summary><strong>Blender</strong></summary>
+
+- [blender-dotnet](https://github.com/stephensmitchell/blender-dotnet)
+
+</details>
+
+<details>
+<summary><strong>Autodesk</strong></summary>
+
+- [autodesk-scripting-plugins](https://github.com/stephensmitchell/autodesk-scripting-plugins)
+
 </details>
 
 <details>
 <summary><strong>Unity</strong></summary>
 
-- [unity-cad-management-package](https://github.com/stephensmitchell/unity-cad-management-package)  
-- [unity-cad-manager](https://github.com/stephensmitchell/unity-cad-manager)
+- [unity-cad-management-package](https://github.com/stephensmitchell/unity-cad-management-package)
 
 </details>
 
 <details>
 <summary><strong>Other Projects</strong></summary>
 
-- [stephensmitchell](https://github.com/stephensmitchell/stephensmitchell) (profile repository)  
-- [AlibreBOM](https://github.com/stephensmitchell/AlibreBOM)  
-- [AlibreExportOpen](https://github.com/stephensmitchell/AlibreExportOpen)  
-- [AnimationAddOn-Updated](https://github.com/stephensmitchell/AnimationAddOn-Updated)  
-- [AnimationSampleAddOn](https://github.com/stephensmitchell/AnimationSampleAddOn)  
-- [BaseAddon-addon](https://github.com/stephensmitchell/BaseAddon-addon)  
-- [cad-programming-templates](https://github.com/stephensmitchell/cad-programming-templates)  
-- [cppAddons](https://github.com/stephensmitchell/cppAddons)  
-- [CycloidalGear](https://github.com/stephensmitchell/CycloidalGear)  
-- [DataBrowserForAlibre](https://github.com/stephensmitchell/DataBrowserForAlibre)  
-- [DXSampleAddOn](https://github.com/stephensmitchell/DXSampleAddOn)  
-- [DXSampleAddOn-Updated](https://github.com/stephensmitchell/DXSampleAddOn-Updated)  
-- [GearCalculator](https://github.com/stephensmitchell/GearCalculator)  
-- [genai-chat-logs](https://github.com/stephensmitchell/genai-chat-logs)  
-- [IIconss](https://github.com/stephensmitchell/IIconss)  
-- [resources](https://github.com/stephensmitchell/resources)  
-- [SelectionAddon](https://github.com/stephensmitchell/SelectionAddon)  
-- [SelectionAddOnSample-Updated](https://github.com/stephensmitchell/SelectionAddOnSample-Updated)  
-- [SelectionSampleAddOn](https://github.com/stephensmitchell/SelectionSampleAddOn)  
-- [sgcore-docs](https://github.com/stephensmitchell/sgcore-docs)  
-- [SimpleCppAddon](https://github.com/stephensmitchell/SimpleCppAddon)  
-- [SimpleCppAddon-code](https://github.com/stephensmitchell/SimpleCppAddon-code)  
-- [UtilitiesForAlibre](https://github.com/stephensmitchell/UtilitiesForAlibre)
+- [system](https://github.com/stephensmitchell/system) – Required folder structure and data layout system.  
+- [spaceframe-tooling](https://github.com/stephensmitchell/spaceframe-tooling)  
+- [relief-maker](https://github.com/stephensmitchell/relief-maker) – Relief Maker tooling and resources.  
+- [IIconss](https://github.com/stephensmitchell/IIconss) – Icons and imagery management utility.  
+- [sgcore-docs](https://github.com/stephensmitchell/sgcore-docs) – Personal sgCore documentation site.  
+- [rhino-development](https://github.com/stephensmitchell/rhino-development)  
+- [grasshopper-development](https://github.com/stephensmitchell/grasshopper-development)  
+- [dynamo-development](https://github.com/stephensmitchell/dynamo-development)  
+- [spaceframe-tooling](https://github.com/stephensmitchell/spaceframe-tooling)  
+- [stephensmitchell](https://github.com/stephensmitchell/stephensmitchell) – Profile repository.  
 
 </details>
 
