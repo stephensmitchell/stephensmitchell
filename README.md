@@ -86,15 +86,6 @@
 <details open>
 <summary><strong>Alibre</strong></summary>
 
-Primary source – [Alibre Forum](https://www.alibre.com/forum/index.php)
-
-- [Audio Overview](https://www.notion.so/donetoolkit/Audio-Overview-23c5708902a0801a8860e9a26b9131ce?source=copy_link)  
-- [Alibre Forum_ Stepalibre Posts_.pdf](https://github.com/user-attachments/files/21430840/Alibre.Forum_.Stepalibre.Posts_.pdf)  
-- [Alibre.Forum_.Stepalibre.Posts_CORRECTION_MADE.pdf](https://github.com/user-attachments/files/21431354/Alibre.Forum_.Stepalibre.Posts_CORRECTION_MADE.pdf)  
-- [Posts by @stepalibre on the Alibre User Forum.pdf](https://github.com/user-attachments/files/21431102/Posts.by.%40stepalibre.on.the.Alibre.User.Forum.pdf)  
-- [User Profile Report_ __@stepalibre__ on the Alibre.pdf](https://github.com/user-attachments/files/21433535/User.Profile.Report_.__%40stepalibre__.on.the.Alibre.pdf)  
-- [Forum Profile Analysis @stepalibre on Alibre Forums.pdf](https://github.com/user-attachments/files/21433902/Forum.Profile.Analysis.%40stepalibre.on.Alibre.Forums.pdf)
-
 Repositories:  
 - [alibre](https://github.com/stephensmitchell/alibre) – Dedicated add-ons and tools bundled for release.  
 - [alibre-development](https://github.com/stephensmitchell/alibre-development) – Comprehensive source for development resources, starter projects, and tooling.  
