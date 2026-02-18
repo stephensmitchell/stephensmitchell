@@ -1,6 +1,7 @@
 <div align="center">
     
-[**WORK TRACKER**](https://github.com/users/stephensmitchell/projects/4) • [**FORUM**](https://discord.gg/cC3PyMMyg8) • [**DISCORD**](https://discord.gg/cC3PyMMyg8) • [**YOUTUBE**](https://www.youtube.com/@stephensmitchell/featured)
+[**WORK TRACKER**](https://github.com/users/stephensmitchell/projects/4) • [**FORUM**](https://discord.gg/cC3PyMMyg8) • [**DISCORD**](https://discord.gg/cC3PyMMyg8) • [**YOUTUBE**](https://www.youtube.com/@stephensmitchell/featured) •
+[**NOTION**](https://fascinated-verbena-f97.notion.site/S-S-M-2f927822944880ccafb8d00c0a80c06c)
 
 </div>
 
