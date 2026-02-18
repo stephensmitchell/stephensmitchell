@@ -86,7 +86,6 @@
 <details open>
 <summary><strong>Alibre</strong></summary>
 
-Repositories:  
 - [alibre](https://github.com/stephensmitchell/alibre) – Dedicated add-ons and tools bundled for release.  
 - [alibre-development](https://github.com/stephensmitchell/alibre-development) – Comprehensive source for development resources, starter projects, and tooling.  
 - [alibre-programming](https://github.com/stephensmitchell/alibre-programming) – Alibre Script and AlibreX example code.  
