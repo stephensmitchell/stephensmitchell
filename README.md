@@ -78,11 +78,12 @@
 
 <div align="center">
 
-# Public / Private Work
+# Public Work
 
 </div>
 <div align="left">
-<details>
+
+<details open>
 <summary><strong>Alibre</strong></summary>
 
 Primary source – [Alibre Forum](https://www.alibre.com/forum/index.php)
@@ -98,17 +99,13 @@ Repositories:
 - [alibre](https://github.com/stephensmitchell/alibre) – Dedicated add-ons and tools bundled for release.  
 - [alibre-development](https://github.com/stephensmitchell/alibre-development) – Comprehensive source for development resources, starter projects, and tooling.  
 - [alibre-programming](https://github.com/stephensmitchell/alibre-programming) – Alibre Script and AlibreX example code.  
-- [alibre-script](https://github.com/stephensmitchell/alibre-script) – Alibre Script examples, demos, and experiments.  
+- [AlibreScript](https://github.com/stephensmitchell/AlibreScript) – AlibreScript examples, demos, and experiments.  
 - [alibre-script-adk](https://github.com/stephensmitchell/alibre-script-adk) – Alibre Script add-on developer kit.  
 - [alibre-script-examples](https://github.com/stephensmitchell/alibre-script-examples) – Additional Alibre Script examples.  
 - [alibre-script-library-examples](https://github.com/stephensmitchell/alibre-script-library-examples) – Library-focused examples.  
-- [alibre-script-runner](https://github.com/stephensmitchell/alibre-script-runner) – Tools and utilities to bring Alibre Script into 2025.  
-- [alibre-script-documentation](https://github.com/stephensmitchell/alibre-script-documentation) – Alibre Script API documentation and wiki.  
+- [AlibreScript-documentation](https://github.com/stephensmitchell/AlibreScript-documentation) – AlibreScript API documentation and wiki.  
 - [alibrex-documentation](https://github.com/stephensmitchell/alibrex-documentation) – AlibreX API documentation and wiki.  
-- [alibre-function-libraries](https://github.com/stephensmitchell/alibre-function-libraries) – Function-only libraries for Alibre Design API.  
 - [alibre-logos](https://github.com/stephensmitchell/alibre-logos) – Source files for Alibre logos.  
-- [alibre-content-library](https://github.com/stephensmitchell/alibre-content-library) – Content and library assets.  
-- [alibre-factory](https://github.com/stephensmitchell/alibre-factory) – Information about Alibre add-on repositories.  
 - [GetInstalledAddons.Tool](https://github.com/stephensmitchell/GetInstalledAddons.Tool) – Utility for inspecting installed Alibre add-ons.  
 
 - [AlibreScript-playground](https://github.com/stephensmitchell/AlibreScript-playground) – Browser-based code editor for AlibreScript.  
@@ -116,79 +113,74 @@ Repositories:
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Dynamo</strong></summary>
 
-- [dynamo-development](https://github.com/stephensmitchell/dynamo-development)  
-- [dynamo-scripting-plugin](https://github.com/stephensmitchell/dynamo-scripting-plugin)
+- No public repositories listed.
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Grasshopper</strong></summary>
 
-- [grasshopper-development](https://github.com/stephensmitchell/grasshopper-development)  
-- [grasshopper-scripting-plugin](https://github.com/stephensmitchell/grasshopper-scripting-plugin)
+- No public repositories listed.
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Rhino</strong></summary>
 
-- [rhino-development](https://github.com/stephensmitchell/rhino-development)  
-- [rhino-scripting-plugin](https://github.com/stephensmitchell/rhino-scripting-plugin)
+- No public repositories listed.
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Meshmixer</strong></summary>
 
 - [meshmixer-dotnet](https://github.com/stephensmitchell/meshmixer-dotnet)
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Gmsh</strong></summary>
 
 - [gmsh-dotnet](https://github.com/stephensmitchell/gmsh-dotnet)
 
 </details>
 
-<details>
+<details open>
 <summary><strong>FreeCAD</strong></summary>
 
 - [freecad-dotnet](https://github.com/stephensmitchell/freecad-dotnet)
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Blender</strong></summary>
 
 - [blender-dotnet](https://github.com/stephensmitchell/blender-dotnet)
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Autodesk</strong></summary>
 
-- [autodesk-scripting-plugins](https://github.com/stephensmitchell/autodesk-scripting-plugins)
+- No public repositories listed.
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Unity</strong></summary>
 
-- [unity-cad-management-package](https://github.com/stephensmitchell/unity-cad-management-package)
+- No public repositories listed.
 
 </details>
 
-<details>
+<details open>
 <summary><strong>Other Projects</strong></summary>
 
 - [system](https://github.com/stephensmitchell/system) – Required folder structure and data layout system.  
-- [spaceframe-tooling](https://github.com/stephensmitchell/spaceframe-tooling)  
-- [relief-maker](https://github.com/stephensmitchell/relief-maker) – Relief Maker tooling and resources.  
-- [IIconss](https://github.com/stephensmitchell/IIconss) – Icons and imagery management utility.  
+- [Extension](https://github.com/stephensmitchell/Extension)  
 - [sgcore-docs](https://github.com/stephensmitchell/sgcore-docs) – Personal sgCore documentation site.  
 - [stephensmitchell](https://github.com/stephensmitchell/stephensmitchell) – Profile repository.  
 
